@@ -1,0 +1,4 @@
+{"channelId":"mychannel","name":"peer0.org2.example.com","mspId":"Org2MSP","endpoint":"peer0.org2.example.com:9051","_id":"THBd9JDVsc5O5uzQ"}
+{"channelId":"mychannel","name":"peer1.org2.example.com","mspId":"Org2MSP","endpoint":"peer1.org2.example.com:10051","_id":"ZX2kT8B3necOMwy0"}
+{"channelId":"mychannel","name":"peer0.org1.example.com","mspId":"Org1MSP","endpoint":"peer0.org1.example.com:7051","_id":"btkiZG3PxJJagwWB"}
+{"channelId":"mychannel","name":"peer1.org1.example.com","mspId":"Org1MSP","endpoint":"peer1.org1.example.com:8051","_id":"p8pjnmAzcgih1b9S"}
